@@ -2,6 +2,6 @@ A custom shell script that sets a custom boot animation. You can test this out b
 
 ```
 [[custom-scripts]]
-  repo = "https://github.com/emolution11/rattlesnakeOS-taimen/"
-  scripts = ["custom-boot-animation.sh"]
+  repo = "https://github.com/emolution11/script-custom-boot/"
+  script-BA = ["custom-boot-animation.sh"]
 ```
